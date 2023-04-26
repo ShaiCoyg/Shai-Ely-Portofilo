@@ -3,7 +3,7 @@ function typeText() {
   const outputDivOne = document.getElementById("hello");
   const txtTwo = `I'm Shai.`;
   const outputDivTwo = document.getElementById("im-shai");
-  const txtThree = `A full stack developer.`;
+  const txtThree = A Tech Enthusiast.`;
   const outputDivThree = document.getElementById("summary");
   var empty = "";
   var txt = empty.concat(txtOne, txtTwo, txtThree);
